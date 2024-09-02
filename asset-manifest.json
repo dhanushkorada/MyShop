@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhanushkorada/MyShop/static/css/main.f6ca80f5.css",
+    "main.js": "/dhanushkorada/MyShop/static/js/main.8c48b5b3.js",
+    "static/js/453.37094a9a.chunk.js": "/dhanushkorada/MyShop/static/js/453.37094a9a.chunk.js",
+    "index.html": "/dhanushkorada/MyShop/index.html",
+    "main.f6ca80f5.css.map": "/dhanushkorada/MyShop/static/css/main.f6ca80f5.css.map",
+    "main.8c48b5b3.js.map": "/dhanushkorada/MyShop/static/js/main.8c48b5b3.js.map",
+    "453.37094a9a.chunk.js.map": "/dhanushkorada/MyShop/static/js/453.37094a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ca80f5.css",
+    "static/js/main.8c48b5b3.js"
+  ]
+}

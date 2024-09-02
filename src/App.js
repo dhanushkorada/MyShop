@@ -31,13 +31,13 @@ const App = () => {
 			<Navbar cartItemCount={cartItems.length} />
 			<div className="container">
 				<Routes>
-					<Route path="/" element={<Home />} />
+					<Route path="/MyShop/" element={<Home />} />
 					<Route
-						path="/shop"
+						path="/MyShop/shop"
 						element={<Shop addToCart={addToCart} />}
 					/>
 					<Route
-						path="/cart"
+						path="/MyShop/cart"
 						element={<Cart cartItems={cartItems} />}
 					/>
 					<Route path="*" element={<NotFound />} />

@@ -40,3 +40,15 @@ npm start
 ```bash
 http://localhost:3000/MyShop/
 ```
+
+## Deployment
+This project can be easily deployed to platforms like Netlify, Vercel, or Cloudflare Pages. Ensure that the _redirects file is configured to handle client-side routing properly.
+
+## Future Enhancements
+ - Product Details Page: Add a page to display detailed information about each product.
+ - Checkout Process: Implement a checkout flow to finalize purchases.
+ - User Authentication: Add user login and registration functionality.
+ - API Integration: Replace the mock product data with a live API for real-time updates.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.

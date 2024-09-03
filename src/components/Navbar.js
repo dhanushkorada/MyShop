@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Navbar = ({ cartItemCount }) => (
 	<nav>
-		<Link to="/">Home</Link>
-		<Link to="/shop">Shop</Link>
-		<Link to="/cart">
+		<Link to="/MyShop/">Home</Link>
+		<Link to="/MyShop/shop">Shop</Link>
+		<Link to="/MyShop/cart">
 			<span>Cart ({cartItemCount})</span>
 		</Link>
 	</nav>

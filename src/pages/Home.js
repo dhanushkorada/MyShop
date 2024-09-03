@@ -7,7 +7,7 @@ const Home = () => (
 		<p>
 			Explore our collection of products. To start Shopping, click here{" "}
 			<Link
-				to="/shop"
+				to="/MyShop/shop"
 				style={{
 					color: "white",
 					textDecoration: "none",
